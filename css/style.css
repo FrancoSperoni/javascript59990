@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+
+
+h1{
+    text-align: center;
+
+
+}
+
+.contenedor-central{
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
